@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#800080"            # purple highlight
+backgroundColor="#000000"         # black background
+secondaryBackgroundColor="#1a1a1a"  # dark gray for sidebar & cards
+textColor="#FFFFFF"
+font="sans serif"
